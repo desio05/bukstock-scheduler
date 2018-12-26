@@ -1,3 +1,4 @@
+timeout-millis: 1000
 tickers:
   - AAPL
   - GOOG
